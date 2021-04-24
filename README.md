@@ -8,7 +8,7 @@ challenges and the honorable contribution to progress.
 
 - 👀 I’m interested in Neuroscience, particularly behavioral and cognitive neuroscience. In paralel, I'm also fond of studying the etiology of neuropathologies.
 
-- 🌱 I’m currently unsupervised learning techniques within a Python setting.
+- 🌱 I’m currently learning about unsupervised learning techniques within a Python setting.
 
 - 📫 How to reach me: jhc2309@gmail.com
 
