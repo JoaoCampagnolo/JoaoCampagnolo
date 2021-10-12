@@ -6,7 +6,7 @@ published in eLife magazine.
 Presently, I am eager to further pursue my education within a research setting, as I am motivated by both the implicated engagement with scientific 
 challenges and the honorable contribution to progress.
 
-- 👀 I’m interested in Neuroscience, particularly in its behavioral and computational branches. In paralel, I'm also fond of exploring the etiology of neuropathologies.
+- 👀 I’m interested in Neuroscience, particularly in its behavioral and computational branches. In parallel, I'm also fond of exploring the etiology of neuropathologies.
 
 - 🌱 I’m currently learning about unsupervised learning techniques within a Python setting.
 
