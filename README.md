@@ -1,4 +1,4 @@
-👋 ## Hi, I'm João Campagnolo
+👋 Hi, I'm João Campagnolo
 
 I’m a neuroscientist with a background in biomedical engineering and biophysics. I recently completed my PhD in Neuroscience at the University of Copenhagen, where I worked in Florence Kermen’s lab on the neural correlates of stress resilience in larval zebrafish (_Dario rerio_).
 
