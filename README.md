@@ -1,16 +1,17 @@
-- 👋 Hi, I’m @JoaoCampagnolo
-I am a newly graduated student from the University of Lisbon, having recently undergone a research fellowship at EPFL for my Master thesis 
-project on unsupervised behavioral classification from Drosophila melanogaster 3D pose data. My research endeavor was carried out with commendable 
-results, allowing me to co-author a paper “DeepFly3D, a deep learning-based approach for 3D limb and appendage tracking in tethered, adult Drosophila”, 
-published in eLife magazine.
-Presently, I am eager to further pursue my education within a research setting, as I am motivated by both the implicated engagement with scientific 
-challenges and the honorable contribution to progress.
+👋 ## Hi, I'm João Campagnolo
 
-- 👀 I’m interested in Bioengineering in general, with a penchant for neuroscience, particularly for its behavioral and computational branches. In parallel, I'm also fond of exploring the etiology of neuropathologies through novel machine learning applications.
+I’m a neuroscientist with a background in biomedical engineering and biophysics. I recently completed my PhD in Neuroscience at the University of Copenhagen, where I worked in Florence Kermen’s lab on the neural correlates of stress resilience in larval zebrafish (_Dario rerio_).
 
-- 🌱 I’m currently learning about unsupervised learning techniques within a Python setting.
+My doctoral work combined behavioral assays, whole-brain activity mapping, multivariate statistics, and scientific programming to examine how the brain recovers from acute stress.
 
-- 📫 How to reach me: jhc2309@gmail.com
+Before that, I completed my master’s thesis at EPFL in Pavan Ramdya’s lab, where I worked on unsupervised quantification of behavior in *Drosophila melanogaster*.
+
+I’m particularly interested in computational and systems neuroscience, machine learning methods for biological and biomedical data, and scientific tools that make messy research questions easier to handle.
+
+Some of the projects here are research-related, and some sit slightly outside my formal academic path - including clinical-trial NLP work such as **PillProphet** and other side projects that started practical and became unnecessarily elaborate.
+
+### Links
+- Website: [joaocampagnolo.com](https://joaocampagnolo.com)
 
 <!---
 JoaoCampagnolo/JoaoCampagnolo is A repository because its `README.md` (this file) appears on your GitHub profile. (Wait, does it? 😳)
