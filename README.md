@@ -11,7 +11,7 @@ I’m particularly interested in computational and systems neuroscience, machine
 Some of the projects here are research-related, and some sit slightly outside my formal academic path - including clinical-trial NLP work such as **PillProphet** and other side projects that started practical and became unnecessarily elaborate.
 
 ### Links
-- Website: [joaocampagnolo.com](https://joaocampagnolo.com)
+- Website: [www.joaocampagnolo.com](https://www.joaocampagnolo.com)
 
 <!---
 JoaoCampagnolo/JoaoCampagnolo is A repository because its `README.md` (this file) appears on your GitHub profile. (Wait, does it? 😳)
